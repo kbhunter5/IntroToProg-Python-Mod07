@@ -24,5 +24,5 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 
-![](images/pic.png)
-##### FIGURE 1.1
+![](docs/pic.png)
+##### FIGURE 1.2
