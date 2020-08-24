@@ -4,7 +4,7 @@
 # Assignment 7 - Pickling and Structured Error  
 
 ## Introduction
-Pickling is taking a list or dictionary and saving it to a file. A file can be "unpickled" for data retrieval. Unpickling can be dangerous because there could contain viruses or malware.
+Pickling is creating a list or dictionary and saving it to a file. A file can be "unpickled" for data retrieval. Unpickling can be dangerous because there could contain viruses or malware inside the data set. This is why it is important to only unpickle data you have generated or recieved from a trusted source.
 
 ## Summary
 
