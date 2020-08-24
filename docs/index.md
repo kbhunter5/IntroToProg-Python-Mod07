@@ -8,6 +8,6 @@
 post code here
 
 ## Pic
-![Progamming_Pic](https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/pic2.png "Pic2")
+![Progamming_Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/pic2.png "Pic2")
 
 ### FIGURE 2.1
