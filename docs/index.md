@@ -7,7 +7,8 @@
 ```
 post code here
 
-![pic2](https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/pic2.png "Pic2")
+
+![pic3](master/docs/pic2.png "Pic3")
 
 
-##### FIGURE 2
+### FIGURE 2
