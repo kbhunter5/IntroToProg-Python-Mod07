@@ -1,6 +1,7 @@
-# Assignment 7 - Pickling and Structured Error
 ## **Dev:** *Kellen Hunter*  
 ## **Date:** *08/24/20*  
+
+# Assignment 7 - Pickling and Structured Error
 ## Introduction
 ## Summary
 
