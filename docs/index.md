@@ -8,7 +8,7 @@
 post code here
 
 
-![pic3](master/docs/pic2.png "Pic3")
+![pic2](https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/pic2.png "Pic2")
 
 
 ### FIGURE 2
