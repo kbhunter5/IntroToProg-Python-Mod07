@@ -8,7 +8,7 @@
 post code here
 
 
-![Progamming Pic](/docs/pic2.png "Pic2")
+![Progamming Pic](docs/pic2.png "Pic2")
 
 
 ### FIGURE 2.1
