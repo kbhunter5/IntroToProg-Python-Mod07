@@ -24,7 +24,7 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 
-##![pic1](https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/Pic.png)
+![pic1](https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/Pic.png "Pic1")
 
-<img src="https://github.com/kbhunter5/IntroToProg-Python-Mod07/blob/master/docs/Pic.png"
-##### FIGURE 1.2
+
+##### FIGURE 1.3
