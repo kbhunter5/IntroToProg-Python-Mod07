@@ -78,14 +78,13 @@ print(gradeslist)
 ## Summary
 For this assignment I was able to create a pickle and extract that data out of a binary .dat file. After, the data was successfully saved and extracted from the pickle table, I was able to go back and add in the exceptions. For this script the exception I used was the "isnumeric" one, while asking the user to input a name and a letter grade. The script is designed to error out and show "Do not use numbers, Must enter in letter only for names". This way the user knows what the error is and they can now rerun the script and fix the error. Below are the sources I found useful for this assignment.
 
-
 ## Sources
 Pickling:  
 
 https://www.youtube.com/watch?v=Bzt6vlf865k - Using Pickle to write to and read from a file in Python [Part 3]
 https://www.youtube.com/watch?v=IrLQ8ckLpWo - Python Basics Pickle Load Method
 
-Error and Execption Handling:  
+Error and Exception Handling:  
 
 https://www.youtube.com/watch?v=NIWwJbo-9_8 - Python Tutorial: Using Try/Except Blocks for Error Handling
 https://www.youtube.com/watch?v=6SPDvPK38tw - #63 Python Tutorial for Beginners | Exception Handling
