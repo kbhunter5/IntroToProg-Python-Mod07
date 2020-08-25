@@ -76,11 +76,13 @@ print(gradeslist)
 ## Summary
 
 ## Sources
-Pickling:
+Pickling:  
+
 https://www.youtube.com/watch?v=Bzt6vlf865k - Using Pickle to write to and read from a file in Python [Part 3]
 https://www.youtube.com/watch?v=IrLQ8ckLpWo - Python Basics Pickle Load Method
 
-Error and Execption Handling:
+Error and Execption Handling:  
+
 https://www.youtube.com/watch?v=NIWwJbo-9_8 - Python Tutorial: Using Try/Except Blocks for Error Handling
 https://www.youtube.com/watch?v=6SPDvPK38tw - #63 Python Tutorial for Beginners | Exception Handling
 
