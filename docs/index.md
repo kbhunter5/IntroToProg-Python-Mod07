@@ -69,10 +69,10 @@ print(gradeslist)
 ![Command Prompt Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/CommandPrompt.png "Command Prompt Pic")
 ### Picture of code working in the Command Prompt.
 
-![PyCharmCompilation](https://kbhunter5.github.io/IntroToProg-Python-Mod07/PyCharmCompilation.png "PyCharm Compilation")
+![PyCharmCompilation](https://kbhunter5.github.io/IntroToProg-Python-Mod07/PycharmCompilation.png "PyCharm Compilation")
 ### Picture of code working in PyCharm.
 
-![Grades Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/Grades.png "Picture of Grades Dat File")
+![Grades Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/GradesPic.png "Picture of Grades Dat File")
 ### Picture of Grades Dat File.
 
 ## Summary
