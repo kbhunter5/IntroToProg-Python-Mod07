@@ -10,8 +10,10 @@ Pickling is creating a list or dictionary and saving it to a file. A file can be
 
 ```
 post code here
+![Command Prompt Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/CommandPrompt.png "Command Prompt Pic")
+### Picture of code working in the Command Prompt
 
-## Pic
 ![Progamming_Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/pic2.png "Pic2")
-
 ### FIGURE 2.1
+
+
