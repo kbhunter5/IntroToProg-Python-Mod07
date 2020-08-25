@@ -64,6 +64,7 @@ save_data_to_file(strFileName, lstGrades)
 # TODO: Read the data from the file into a new list object and display the contents
 print(read_data_from_file(strFileName))
 print(gradeslist)
+```
 
 ![Command Prompt Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/CommandPrompt.png "Command Prompt Pic")
 ### Picture of code working in the Command Prompt.
@@ -73,7 +74,6 @@ print(gradeslist)
 
 ![Grades Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod07/Grades.png "Picture of Grades Dat File")
 ### Picture of Grades Dat File.
-```
 
 ## Summary
 For this assignment I was able to create a pickle and extract that data out of a binary .dat file. After, the data was successfully saved and extracted from the pickle table, I was able to go back and add in the exceptions. For this script the exception I used was the "isnumeric" one, while asking the user to input a name and a letter grade. The script is designed to error out and show "Do not use numbers, Must enter in letter only for names". This way the user knows what the error is and they can now rerun the script and fix the error. Below are the sources I found useful for this assignment.
