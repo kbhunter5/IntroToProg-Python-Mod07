@@ -4,7 +4,9 @@
 # Assignment 7 - Pickling and Structured Error  
 
 ## Introduction
-Pickling is creating a list or dictionary and saving it to a file. A file can be "unpickled" for data retrieval. Unpickling can be dangerous because there could contain viruses or malware inside the data set. This is why it is important to only unpickle data you have generated or recieved from a trusted source.
+Pickling is creating a list or dictionary and saving it to a file. A file can be "unpickled" for data retrieval. Unpickling can be dangerous because there could contain viruses or malware inside the data set. This is why it is important to only unpickle data you have generated or received from a trusted source. This is because dat files are used for pickling and the files are obscure, which means they are NOT secured.
+
+Error and Exception handling are coded in error messages that help the user identify how to solve that issue if it happens. There are 3 types of errors compile time (Syntax), logical, and run time. Compile errors also known as syntax could include an incorrect spelling or missing character. Logical errors are created when an output is incorrect or impossible, for example 1+1 =3. Since 3 is does not equal 1+1 a logical error is created. Run time error occur during the run time of the script by something the user did. These can occur when the user divides by 0. Exceptions can be coded into scripts to display a message or loop into an if statement if an error occurs.
 
 ```
 #------------------------------------------------- #
@@ -74,6 +76,8 @@ print(gradeslist)
 ```
 
 ## Summary
+For this assignment I was able to create a pickle and extract that data out of a binary .dat file. After, the data was successfully saved and extracted from the pickle table, I was able to go back and add in the exceptions. For this script the exception I used was the "isnumeric" one, while asking the user to input a name and a letter grade. The script is designed to error out and show "Do not use numbers, Must enter in letter only for names". This way the user knows what the error is and they can now rerun the script and fix the error. Below are the sources I found useful for this assignment.
+
 
 ## Sources
 Pickling:  
